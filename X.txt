@@ -3794,24 +3794,7 @@ BaBaBa,http://qukufile2.qianqian.com/data2/video/2e3747f8eae298e80f98a9f9a57d95c
 韓國歌團019,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239807872136.mp4
 韓國歌團020,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240032526123.mp4
 
-
-使用方法,#genre#
-請使用,
-百川影音 新版,
-DIYP,
-來源均來自互聯網,
-以上均測試軟體,
-無販賣 請支持正版,
-請按指示解碼,
-不能播請換解碼,
-點播均可按左右快轉,
-可以數字選台,
-大多軟硬解即可,
-超時請設10秒以上,
-有些讀取慢請耐心,
-
-
-🔞p5p_710924,#genre#
+🔞p5p_88888,#genre#
 彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
 彩虹电影台,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
 香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
@@ -4170,7 +4153,7 @@ Hustler HD,http://82.42.140.103:8001/1:0:19:4223:2f44:13E:820000:0:0:0:
 Hustler HD,http://82.42.140.103:8001/1:0:19:4220:2f44:13E:820000:0:0:0:
 Vivid Red HD,http://82.42.140.103:8001/1:0:1:4267:3db8:13E:820000:0:0:0:
 
-🔞測試_710924,#genre#
+🔞測試_88888,#genre#
 EXTASYHD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 filmon,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 RUsskayanoch,http://93.189.224.117:9030/russkayanoch
@@ -4898,7 +4881,7 @@ Primafila HOTCLUB 7 FHD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/140873
 Primafila HOTCLUB 8 FHD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/140874
 Primafila HOTCLUB 9 FHD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/140875
 
-🔞秒播測試_710924,#genre#
+🔞秒播測試_88888,#genre#
 101,https://2.ddyunbo.com/20190709/vsmhQlYK/index.m3u8
 100,https://2.ddyunbo.com/20190721/Hw7HABFC/index.m3u8
 99,https://2.ddyunbo.com/20190721/RDGXIB2D/index.m3u8
